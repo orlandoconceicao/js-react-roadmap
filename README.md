@@ -169,23 +169,6 @@ Guia completo de estudos para evoluir de iniciante até nível avançado em dese
 
 ---
 
-## 12. Git e GitHub
-- commit  
-- push  
-- branches  
-- pull request  
-
----
-
-## 13. Deploy
-- VPS  
-- Nginx  
-- domínio  
-- SSL  
-- build do React  
-
----
-
 # 🎯 Resultado Final
 
 Ao seguir este roadmap você será capaz de:
@@ -202,5 +185,5 @@ Ao seguir este roadmap você será capaz de:
 **Nome:** Orlando Conceição  
 
 **Área:** Front-End & Backend Developer  
-   
+
 **Contato:** orlandoconceicao94@gmail.com  
