@@ -1,0 +1,160 @@
+Roadmap de JavaScript + React
+JavaScript — Base Obrigatória
+1============================== Fundamentos
+let, const, var
+tipos de dados
+operadores
+if, else
+switch
+loops (for, while)
+template string
+
+
+2============================== Funções
+function
+arrow function
+parâmetros
+retorno
+escopo
+callback
+
+
+3============================== Arrays
+map
+filter
+find
+forEach
+some
+every
+reduce
+
+
+4============================== Objetos
+acessar propriedades
+destructuring
+spread operator
+object methods
+
+
+5============================== DOM
+querySelector
+eventos
+manipular HTML
+manipular classes
+formulários
+
+
+6============================== Async JavaScript
+fetch
+async/await
+promises
+try/catch
+consumir API
+
+
+7============================== Módulos
+import
+export
+
+
+8============================== JSON
+JSON==============================parse
+JSON==============================stringify
+
+
+9============================== ES6+ (MUITO IMPORTANTE)
+arrow functions
+spread
+destructuring
+optional chaining
+ternário
+
+
+React — O que mais usa no mercado
+1============================== Base do React
+componentes
+JSX
+props
+renderização
+
+
+2============================== Hooks
+useState
+useEffect
+useRef
+useContext
+
+
+3============================== Eventos
+onClick
+onChange
+formulários
+
+
+4============================== Renderização dinâmica
+map
+listas
+keys
+condicionais
+
+
+5============================== Componentização
+separar componentes
+reutilização
+organização de pastas
+
+
+6============================== Rotas
+React Router
+páginas
+navegação
+rotas privadas
+
+
+7============================== APIs
+consumir backend
+loading
+tratamento de erro
+CRUD
+
+
+8============================== Estado Global
+Context API
+Zustand
+Redux (mais avançado)
+
+
+9============================== Autenticação
+JWT
+login/logout
+proteger páginas
+
+
+10============================== Performance
+memo
+lazy loading
+otimização de render
+
+
+11============================== O que estudar junto
+CSS/Tailwind
+flexbox
+grid
+responsividade
+animações
+Tailwind CSS
+
+
+12============================== Git/GitHub
+commit
+push
+branch
+pull request
+
+
+13============================== Deploy
+VPS
+Nginx
+domínio
+SSL
+build React

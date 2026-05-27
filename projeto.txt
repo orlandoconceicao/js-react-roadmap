@@ -1,0 +1,231 @@
+=============================== Projeto Front-End Completo em React 
+
+=============================== ETAPA 1 — Criar Projeto
+
+=============================== Instalar Nodejs
+npm create vite@latest
+
+=============================== Nome do projeto
+stackweb-dashboard
+
+=============================== Escolher
+React
+JavaScript
+
+=============================== ETAPA 2 — Entrar na Pasta
+cd stackweb-dashboard
+
+=============================== ETAPA 3 — Instalar Dependências
+npm install
+
+=============================== ETAPA 4 — Rodar Projeto
+npm run dev
+
+=============================== Instalar Bibliotecas
+=============================== React Router
+npm install react-router-dom
+
+=============================== React Icons
+npm install react-icons
+
+=============================== Tailwind CSS
+npm install tailwindcss @tailwindcss/vite
+
+=============================== Estrutura Profissional
+src/
+ ├── components/
+ ├── pages/
+ ├── routes/
+ ├── layouts/
+ ├── hooks/
+ ├── context/
+ ├── data/
+ ├── utils/
+ └── styles/
+
+=============================== ETAPA 5 — Criar Layout
+=============================== Criar
+sidebar
+navbar
+main content
+
+=============================== Aprender
+flexbox
+componentização
+layouts profissionais
+
+=============================== ETAPA 6 — Sidebar
+=============================== Criar Menu
+Dashboard
+Clientes
+Projetos
+Financeiro
+Mensalidades
+Configurações
+
+=============================== Aprender
+rotas
+navegação
+NavLink
+
+=============================== ETAPA 7 — Dashboard
+=============================== Criar Cards
+total clientes
+faturamento
+lucro
+projetos
+
+=============================== Aprender
+props
+renderização dinâmica
+componentes reutilizáveis
+
+=============================== ETAPA 8 — CRUD Clientes
+=============================== Criar
+listar clientes
+adicionar cliente
+editar cliente
+deletar cliente
+
+=============================== Dados Fake
+const clientes = [
+  {
+    id: 1,
+    nome: "Cliente 1",
+    plano: "Avançado",
+  }
+]
+
+=============================== Aprender
+map
+filter
+useState
+formulários
+
+=============================== ETAPA 9 — Modal
+=============================== Criar Modal
+adicionar cliente
+editar cliente
+
+=============================== Aprender
+estados
+forms
+componentização
+
+=============================== ETAPA 10 — Projetos
+=============================== Criar
+cards projetos
+progresso
+status
+prazo
+
+=============================== Aprender
+organização
+listas dinâmicas
+
+=============================== ETAPA 11 — Financeiro
+=============================== Criar
+entradas
+saídas
+lucro
+
+=============================== Aprender
+reduce
+cálculos
+
+Lucro=Entradas−Sa
+ı
+ˊ
+das
+
+=============================== ETAPA 12 — Mensalidades
+=============================== Criar
+clientes ativos
+pagamentos
+vencimentos
+
+=============================== Aprender
+filtros
+status
+datas
+
+=============================== ETAPA 13 — Login Fake
+=============================== Criar
+email
+senha
+botão login
+
+=============================== Aprender
+autenticação fake
+localStorage
+rotas privadas
+
+=============================== ETAPA 14 — Dark Mode
+=============================== Criar
+botão tema
+salvar preferência
+
+=============================== Aprender
+Context API
+localStorage
+
+=============================== ETAPA 15 — Responsividade
+=============================== Fazer
+mobile
+tablet
+desktop
+
+=============================== Aprender
+media queries
+flexbox
+grid
+
+=============================== ETAPA 16 — Componentes Reutilizáveis
+=============================== Criar
+Button
+Card
+Input
+Modal
+Table
+
+=============================== Aprender
+reutilização
+organização profissional
+
+=============================== ETAPA 17 — Melhorias Avançadas
+=============================== Adicionar
+gráficos
+notificações
+calendário
+upload fake
+animações
+drag and drop
+
+=============================== O que você vai aprender
+=============================== JavaScript
+arrays
+objetos
+map
+filter
+reduce
+async
+localStorage
+eventos
+
+=============================== React
+componentes
+hooks
+props
+rotas
+context
+estados
+renderização dinâmica
+
+=============================== Resultado Final
+=============================== Você terá
+dashboard profissional
+portfólio forte
+prática real
+experiência React
+base para fullstack
+sistema nível mercado

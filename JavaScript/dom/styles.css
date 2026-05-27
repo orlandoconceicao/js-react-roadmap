@@ -1,0 +1,263 @@
+/* ============================== RESET ============================== */
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+/* ============================== BODY ============================== */
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: #0f172a;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+
+    padding: 20px;
+
+    transition: 0.3s;
+
+}
+
+/* ============================== CONTAINER ============================== */
+
+.container {
+
+    width: 100%;
+    max-width: 600px;
+
+    background: #1e293b;
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+/* ============================== TÍTULO ============================== */
+
+.titulo {
+
+    text-align: center;
+
+    font-size: 32px;
+
+}
+
+/* ============================== MENSAGEM ============================== */
+
+.mensagem {
+
+    background: #334155;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+}
+
+/* ============================== FORM ============================== */
+
+.formulario {
+
+    display: flex;
+
+    gap: 10px;
+
+}
+
+.formulario input {
+
+    flex: 1;
+
+    padding: 12px;
+
+    border: none;
+    border-radius: 8px;
+
+    outline: none;
+
+}
+
+.formulario button {
+
+    padding: 12px 20px;
+
+    border: none;
+    border-radius: 8px;
+
+    background: #2563eb;
+
+    color: white;
+
+    cursor: pointer;
+
+}
+
+/* ============================== BOTÕES ============================== */
+
+.acoes {
+
+    display: flex;
+
+    gap: 10px;
+
+}
+
+.acoes button {
+
+    flex: 1;
+
+    padding: 12px;
+
+    border: none;
+    border-radius: 8px;
+
+    background: #475569;
+
+    color: white;
+
+    cursor: pointer;
+
+}
+
+/* ============================== CAIXA ============================== */
+
+.caixa {
+
+    background: #334155;
+
+    padding: 20px;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    transition: 0.3s;
+
+}
+
+/* Classe adicionada pelo JS */
+
+.ativo {
+
+    background: #2563eb;
+
+    transform: scale(1.03);
+
+}
+
+/* ============================== IMAGEM ============================== */
+
+.imagem {
+
+    width: 100%;
+
+    border-radius: 10px;
+
+}
+
+/* ============================== LISTA ============================== */
+
+.listaUsuarios {
+
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+}
+
+/* ============================== ITEM ============================== */
+
+.item,
+.usuario {
+
+    background: #334155;
+
+    padding: 15px;
+
+    border-radius: 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+/* ============================== BOTÃO REMOVER ============================== */
+
+.remover {
+
+    background: crimson;
+
+    color: white;
+
+    border: none;
+
+    padding: 8px 12px;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+}
+
+/* ============================== TEMA LIGHT ============================== */
+
+.light {
+
+    background: #f1f5f9;
+
+    color: #111827;
+
+}
+
+.light .container {
+
+    background: white;
+
+}
+
+.light .mensagem {
+
+    background: #e2e8f0;
+
+}
+
+.light .caixa {
+
+    background: #e2e8f0;
+
+}
+
+.light .item,
+.light .usuario {
+
+    background: #e2e8f0;
+
+}
+
+.light .acoes button {
+
+    background: #cbd5e1;
+
+    color: black;
+
+}
