@@ -61,8 +61,10 @@ Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
 
 ---
 
-## 👨‍💻 Perfil do Desenvolvedor
+## 👨‍💻 Autor
 
-**Nome:** Orlando Conceição
+**Orlando Conceição**
 
-**Área:** Front-End & Back-End Developer
+Front-End & Back-End Developer
+
+📧 orlandoconceicao94@gmail.com
