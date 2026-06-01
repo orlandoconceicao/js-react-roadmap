@@ -1,82 +1,67 @@
-# 🚀 Roadmap Completo de JavaScript + React
+# 🚀 Roadmap Completo de Desenvolvimento Web
+
+Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
+
+---
 
 ## 📚 Base de Estudos
 
-| JavaScript 🟨 | React ⚛️ |
-|--------------|----------|
-| Fundamentos | Componentes |
-| Funções | JSX |
-| Arrays | Props |
-| Objetos | Renderização |
-| DOM | useState |
-| Assíncrono | useEffect |
-| Módulos | useContext |
-| JSON | Eventos |
-| ES6+ | Rotas |
-
----
-
-## 🎯 JavaScript
-
-| Fundamentos | Funções |
-|------------|----------|
-| let | function |
-| const | arrow function |
-| var | parâmetros |
-| operadores | return |
-| condicionais | callbacks |
-
-| Arrays | Objetos |
-|---------|---------|
-| map() | destructuring |
-| filter() | spread |
-| find() | métodos |
-| reduce() | propriedades |
-
----
-
-## ⚛️ React
-
-| Fundamentos | Hooks |
-|------------|--------|
-| Componentes | useState |
-| JSX | useEffect |
-| Props | useRef |
-| Renderização | useContext |
-
-| APIs | Estado Global |
-|------|--------------|
-| Fetch | Context API |
-| Axios | Zustand |
-| CRUD | Redux |
-
----
-
-## 🌐 Front-End + Back-End
-
 | Front-End | Back-End |
-|------------|-----------|
-| React | Node.js |
-| Vite | Express |
-| Tailwind | PostgreSQL |
-| Axios | JWT |
+|-----------|----------|
+| HTML | Node.js |
+| CSS | Express.js |
+| JavaScript | APIs REST |
+| React | Autenticação JWT |
+| Tailwind CSS | Banco de Dados |
+| Consumo de APIs | PostgreSQL |
+| Responsividade | Arquitetura Backend |
+| Componentização | Deploy e Produção |
+
+---
+
+## 🟨 JavaScript | ⚛️ React
+
+| JavaScript | React |
+|------------|--------|
+| Fundamentos | Componentes |
+| Variáveis | JSX |
+| Operadores | Props |
+| Condicionais | Renderização |
+| Loops | useState |
+| Funções | useEffect |
+| Arrays | useRef |
+| Objetos | useContext |
+| DOM | Eventos |
+| Fetch API | Formulários |
+| Promises | Renderização Dinâmica |
+| Async/Await | Componentização |
+| JSON | React Router |
+| Módulos | APIs |
+| ES6+ | Estado Global |
+| Destructuring | Autenticação |
+| Spread Operator | Performance |
+| Optional Chaining | Tailwind CSS |
 
 ---
 
 ## 🏆 Resultado Final
 
-| Você Será Capaz de |
-|-------------------|
-| Criar aplicações React |
-| Consumir APIs |
-| Criar sistemas completos |
-| Implementar autenticação |
-| Trabalhar como Front-End |
-| Evoluir para Full Stack |
+| Competências Desenvolvidas |
+|----------------------------|
+| Criar aplicações modernas com React |
+| Consumir APIs REST |
+| Desenvolver dashboards |
+| Construir sistemas completos |
+| Trabalhar com autenticação JWT |
+| Implementar gerenciamento de estado |
+| Aplicar boas práticas de arquitetura |
+| Desenvolver aplicações Full Stack |
+| Realizar deploy em produção |
+| Trabalhar profissionalmente na área |
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Perfil do Desenvolvedor
 
 **Nome:** Orlando Conceição
 
