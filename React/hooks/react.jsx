@@ -199,8 +199,7 @@ Fornecedor:
 
 function Perfil() {
 
-    const usuario =
-        useContext(UsuarioContext);
+    const usuario = useContext(UsuarioContext);
 
     return (
         <h1>{usuario.nome}</h1>
@@ -293,8 +292,7 @@ function Dashboard() {
     // Recebe os dados compartilhados
     // pelo UsuarioContext
 
-    const usuario =
-        useContext(UsuarioContext);
+    const usuario = useContext(UsuarioContext);
 
 
     // ==============================
@@ -334,25 +332,15 @@ function Dashboard() {
 
         <div>
 
-            {/* Nome vindo do Context */}
-
-            <h1>
-                Usuário: {usuario.nome}
-            </h1>
-
+            // Nome vindo do Context
+            <h1>Usuário: {usuario.nome}</h1>
 
             <hr />
 
+            // Valor do contador
+            <h2>Contador: {contador}</h2>
 
-            {/* Valor do contador */}
-
-            <h2>
-                Contador: {contador}
-            </h2>
-
-
-            {/* Incrementa +1 */}
-
+            // Incrementa +1
             <button
                 onClick={() =>
                     setContador(contador + 1)
@@ -361,9 +349,7 @@ function Dashboard() {
                 Incrementar
             </button>
 
-
-            {/* Decrementa -1 */}
-
+            // Decrementa -1
             <button
                 onClick={() =>
                     setContador(contador - 1)
@@ -372,20 +358,16 @@ function Dashboard() {
                 Decrementar
             </button>
 
-
             <hr />
 
-
-            {/* Input conectado ao useRef */}
-
+            // Input conectado ao useRef
             <input
                 ref={inputRef}
                 placeholder="Digite algo"
             />
 
 
-            {/* Ao clicar foca no input */}
-
+            // Ao clicar foca no input
             <button
                 onClick={focarInput}
             >
