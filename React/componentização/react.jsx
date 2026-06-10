@@ -49,15 +49,10 @@ function Header() {
 
 /*
 Fluxo:
-
 1. React executa a função
-
 2. A função retorna JSX
-
 3. React renderiza na tela
-
 Resultado:
-
 StackWeb Agency
 */
 
@@ -216,11 +211,8 @@ sem duplicar código.
 
 /*
 Fluxo:
-
 1. Criamos o componente
-
 2. Importamos onde necessário
-
 3. Reutilizamos várias vezes
 */
 
@@ -263,11 +255,8 @@ function Card(props) {
 
 /*
 Resultado:
-
 Notebook
-
 Mouse
-
 Teclado
 */
 
@@ -276,11 +265,8 @@ Teclado
 Fluxo:
 
 1. Pai envia props
-
 2. Filho recebe props
-
 3. JSX exibe os dados
-
 4. Mesmo componente
    mostra conteúdos diferentes
 */
@@ -480,7 +466,6 @@ styles
 
 /*
 1. Um componente por arquivo
-
 2. Nomes em PascalCase
 
 Correto:
@@ -494,11 +479,8 @@ header.jsx
 productcard.jsx
 
 3. Componentes pequenos
-
 4. Evitar duplicação de código
-
 5. Criar componentes reutilizáveis
-
 6. Organizar em pastas
 */
 
@@ -507,23 +489,14 @@ productcard.jsx
 
 /*
 Exemplo utilizando:
-
 ✓ Componentização
-
 ✓ Separação de componentes
-
 ✓ Reutilização
-
 ✓ Props
-
 ✓ Children
-
 ✓ Export
-
 ✓ Import
-
 ✓ Organização
-
 ✓ Responsabilidade única
 */
 
@@ -729,54 +702,4 @@ R$ 250
 [Comprar]
 
 Todos os direitos reservados
-*/
-
-
-// ============================== RESUMO ==============================
-
-/*
-COMPONENTE
-→ Parte da interface.
-
-SEPARAÇÃO
-→ Componentes em arquivos próprios.
-
-RESPONSABILIDADE ÚNICA
-→ Cada componente faz apenas uma coisa.
-
-REUTILIZAÇÃO
-→ Criar uma vez e usar várias.
-
-PROPS
-→ Enviar dados para componentes.
-
-CHILDREN
-→ Conteúdo dentro das tags.
-
-EXPORT
-→ Disponibiliza componentes.
-
-IMPORT
-→ Utiliza componentes.
-
-ORGANIZAÇÃO DE PASTAS
-→ Estrutura limpa e escalável.
-
-Fluxo Geral:
-
-COMPONENTE
-      ↓
-SEPARAÇÃO
-      ↓
-EXPORT
-      ↓
-IMPORT
-      ↓
-PROPS
-      ↓
-CHILDREN
-      ↓
-REUTILIZAÇÃO
-      ↓
-REACT RENDERIZA
 */
