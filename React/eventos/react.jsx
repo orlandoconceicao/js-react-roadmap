@@ -25,6 +25,22 @@ Os eventos mais utilizados no React são:
 - onSubmit
 */
 
+/*
+onClick
+→ Executa quando o usuário clica.
+
+onChange
+→ Executa quando o valor de um campo muda.
+
+onSubmit
+→ Executa quando um formulário é enviado.
+
+event.target.value
+→ Valor digitado pelo usuário.
+
+event.preventDefault()
+→ Impede o recarregamento da página.
+*/
 
 // ============================== onClick ==============================
 
