@@ -134,27 +134,3 @@ proteger páginas
 memo
 lazy loading
 otimização de render
-
-
-11============================== O que estudar junto
-CSS/Tailwind
-flexbox
-grid
-responsividade
-animações
-Tailwind CSS
-
-
-12============================== Git/GitHub
-commit
-push
-branch
-pull request
-
-
-13============================== Deploy
-VPS
-Nginx
-domínio
-SSL
-build React
