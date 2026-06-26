@@ -1,10 +1,10 @@
-# 🚀 Roadmap Completo de Desenvolvimento Web
+# Roadmap Completo de Desenvolvimento Web
 
 Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
 
 ---
 
-## 📚 Base de Estudos
+## Base de Estudos
 
 | Front-End | Back-End |
 |-----------|----------|
@@ -19,7 +19,7 @@ Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
 
 ---
 
-## 🟨 JavaScript | ⚛️ React
+## JavaScript | React
 
 | JavaScript | React |
 |------------|--------|
@@ -44,7 +44,7 @@ Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
 
 ---
 
-## 🏆 Resultado Final
+## Resultado Final
 
 | Competências Desenvolvidas |
 |----------------------------|
@@ -61,10 +61,10 @@ Guia completo para evoluir de iniciante até desenvolvedor Full Stack.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Orlando Conceição**
 
 Front-End & Back-End Developer
 
-📧 orlandoconceicao94@gmail.com
+contato: orlandoconceicao94@gmail.com
